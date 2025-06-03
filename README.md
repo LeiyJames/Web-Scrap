@@ -22,7 +22,7 @@ Each city has its own cleaned CSV file located under the `Clean/` directory.
 The `clean.py` script is used to:
 
 - Remove duplicates
-- Standardize formats (name, emails, phone numbers)
+- Standardize formats (name, emails, phone numbers, address)
 - Handle missing or malformed data
 
 You can run the cleaning script with:
